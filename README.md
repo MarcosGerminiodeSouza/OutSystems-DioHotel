@@ -12,6 +12,6 @@
 Este projeto é um desafio proposto na plataforma Digital Inovation One
 
 ## Links Úteis
-[Formação OutSystems Fundamentals](https://web.dio.me/track/formacao-outsystems-fundamentals)
-[Site Oficial da OutSystems](https://www.outsystems.com/pt-br/)
-[Comunidade da OutSystems](https://www.outsystems.com/community/)
+- [Formação OutSystems Fundamentals](https://web.dio.me/track/formacao-outsystems-fundamentals)
+- [Site Oficial da OutSystems](https://www.outsystems.com/pt-br/)
+- [Comunidade da OutSystems](https://www.outsystems.com/community/)
