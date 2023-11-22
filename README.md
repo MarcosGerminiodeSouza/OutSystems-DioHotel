@@ -16,6 +16,8 @@ Este projeto é um desafio proposto na plataforma Digital Inovation One
 
 ## Links Úteis
 
-- [Formação OutSystems Fundamentals](https://web.dio.me/track/formacao-outsystems-fundamentals)
-- [Site Oficial da OutSystems](https://www.outsystems.com/pt-br/)
-- [Comunidade da OutSystems](https://www.outsystems.com/community/)
+- Formação [OutSystems Fundamentals](https://web.dio.me/track/formacao-outsystems-fundamentals)
+- Site Oficial da [OutSystems](https://www.outsystems.com/pt-br/)
+- Comunidade da [OutSystems](https://www.outsystems.com/community/)
+- Desafio de Projeto [Criando um Sistema para Hotel e Hospedagem com OutSystems](https://web.dio.me/project/novas-funcionalidades-diohotel/learning/bbe114df-b54c-4ba3-967f-d4fa9112b991)
+- Link da aplicação [DioHotel](https://personal-qevrasqq.outsystemscloud.com/DioHotel/)
