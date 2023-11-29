@@ -10,6 +10,11 @@
 6. O desempenho do programa otimizado por minhas alterações seguindo regras e boas práticas da OutSystems.
 7. Foi feito um CRUD para a Tabela de Quartos atender todas as necessidades do usuário.
 
+## Utilizar Login de Teste
+
+Username: teste
+Password: 123
+
 ## Desafio DIO
 
 Este projeto é um desafio proposto na plataforma Digital Inovation One
